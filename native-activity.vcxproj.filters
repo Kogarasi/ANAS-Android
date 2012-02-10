@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ANAS">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ANAS\activity">
+      <UniqueIdentifier>{91098ed7-ac87-4f69-becb-edfe53d51dfb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\input">
+      <UniqueIdentifier>{074ccdf1-8bde-40ab-af83-2debd668bbee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\log">
+      <UniqueIdentifier>{3eaa6350-3df6-4f83-8f8a-dc6ab59aafc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\_entry">
+      <UniqueIdentifier>{b3dcf139-3904-47ca-897c-70be084c24de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\graphics">
+      <UniqueIdentifier>{21b2a632-061c-4af1-9b0a-c75ce4e61e1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\graphics\Shader">
+      <UniqueIdentifier>{715b49fc-b140-482d-8aa8-bbb22e4042ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\task">
+      <UniqueIdentifier>{b0652d03-1d33-44ff-8c1d-9129ab6496d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\image">
+      <UniqueIdentifier>{f8ea7c84-4319-45ec-9b08-42d739313e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\common">
+      <UniqueIdentifier>{7f9c486e-f92e-4a9f-8888-4d8643248e3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\scene">
+      <UniqueIdentifier>{9cea8ff7-f749-486f-bf16-0104d3ac46f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\thread">
+      <UniqueIdentifier>{72e088f1-ec94-4863-9292-9ec0932330a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\time">
+      <UniqueIdentifier>{cdf7fbb7-e62a-4a02-b80d-96fdae90bc9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test">
+      <UniqueIdentifier>{544e8ea0-76b1-4dcc-b52d-ce3ea549c4c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\Signal">
+      <UniqueIdentifier>{e408a5de-31e7-46bf-aaf4-d64d325cf6be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\asset">
+      <UniqueIdentifier>{a8c3c1ac-5938-4264-8608-bad3a68ae8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\graphics\Sprite">
+      <UniqueIdentifier>{e3b17893-082d-454b-a61e-4ac89195ba53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\graphics\Texture">
+      <UniqueIdentifier>{b7e58f41-91e4-4c7b-8e3f-ff67ab295cf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\Resource">
+      <UniqueIdentifier>{34990bfb-ca8b-4ecd-aefd-5ed595ce353f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\graphics\Buffer">
+      <UniqueIdentifier>{eb462e4d-c1a5-4146-bb46-9c65f4b676a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\Sound">
+      <UniqueIdentifier>{87698eec-8230-48e9-a15f-0a7ac63b28d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{48519771-6ca7-4a42-8fc3-5984cb4b65ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Custom">
+      <UniqueIdentifier>{fbb80fd7-eeee-443a-9c59-a6530638379a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="boost">
+      <UniqueIdentifier>{d2a9779f-a8ac-41e6-8c71-0e98519c14f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="boost\system">
+      <UniqueIdentifier>{c884f294-e6be-4ca0-a20e-b16285e525f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="boost\thread">
+      <UniqueIdentifier>{dd3f6cec-e4b5-47e4-a4a2-474a6848431f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Component">
+      <UniqueIdentifier>{182ded82-865b-4d3d-9515-7a4129c283bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Effect">
+      <UniqueIdentifier>{cc62bc45-7b70-4b4f-90d8-6e5394d89f18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Enemy">
+      <UniqueIdentifier>{72a9cbce-ee6a-46e9-9b24-60e701f28b78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\Math">
+      <UniqueIdentifier>{1e0eafbe-56b2-4e8e-a9a6-d4608070a718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Stage">
+      <UniqueIdentifier>{5b956789-9f48-4d29-a769-f40c8cf9c197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ANAS\screen">
+      <UniqueIdentifier>{b89179cc-3aa6-4f14-babb-c9f3e4477f8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="0entry">
+      <UniqueIdentifier>{50873bbc-d909-4b1d-aadd-3210558abd20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Activity.cpp">
+      <Filter>ANAS\activity</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\main.cpp">
+      <Filter>ANAS\_entry</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Input.cpp">
+      <Filter>ANAS\input</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Task.cpp">
+      <Filter>ANAS\task</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Graphic.cpp">
+      <Filter>ANAS\graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Image.cpp">
+      <Filter>ANAS\image</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\boost_1_48_0\libs\thread\src\pthread\once.cpp">
+      <Filter>boost\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\boost_1_48_0\libs\thread\src\pthread\thread.cpp">
+      <Filter>boost\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\boost_1_48_0\libs\thread\src\tss_null.cpp">
+      <Filter>boost\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SceneBase.cpp">
+      <Filter>ANAS\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ThreadBase.cpp">
+      <Filter>ANAS\thread</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\_testscene.cpp">
+      <Filter>Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sprite.cpp">
+      <Filter>ANAS\graphics\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Texture.cpp">
+      <Filter>ANAS\graphics\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AssetData.cpp">
+      <Filter>ANAS\asset</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Resource.cpp">
+      <Filter>ANAS\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Sound.cpp">
+      <Filter>ANAS\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameScene.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CustomSprite.cpp">
+      <Filter>Game\Custom</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\boost_1_48_0\libs\system\src\error_code.cpp">
+      <Filter>boost\system</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Screen.cpp">
+      <Filter>ANAS\screen</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\entryScene.cpp">
+      <Filter>0entry</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Activity.h">
+      <Filter>ANAS\activity</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Input.h">
+      <Filter>ANAS\input</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\main.h">
+      <Filter>ANAS\_entry</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\log.h">
+      <Filter>ANAS\log</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Graphic.h">
+      <Filter>ANAS\graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\task.h">
+      <Filter>ANAS\task</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Image.h">
+      <Filter>ANAS\image</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Shader.h">
+      <Filter>ANAS\graphics\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Uniform.h">
+      <Filter>ANAS\graphics\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SceneBase.h">
+      <Filter>ANAS\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ThreadBase.h">
+      <Filter>ANAS\thread</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Time.h">
+      <Filter>ANAS\time</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\_testscene.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Signal.h">
+      <Filter>ANAS\Signal</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AssetData.h">
+      <Filter>ANAS\asset</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Simple2D.h">
+      <Filter>Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sprite.h">
+      <Filter>ANAS\graphics\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Texture.h">
+      <Filter>ANAS\graphics\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Resource.h">
+      <Filter>ANAS\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BufferHeap.h">
+      <Filter>ANAS\graphics\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Sound.h">
+      <Filter>ANAS\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\GameScene.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CustomSprite.h">
+      <Filter>Game\Custom</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EffectBase.h">
+      <Filter>Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BombLineEffect.h">
+      <Filter>Game\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EnemyBase.h">
+      <Filter>Game\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EnemySoldier.h">
+      <Filter>Game\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\vector.h">
+      <Filter>ANAS\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\StageLoader.h">
+      <Filter>Game\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Screen.h">
+      <Filter>ANAS\screen</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SplashScreen.h">
+      <Filter>ANAS\scene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AndroidManifest.xml">
+      <Filter>リソース ファイル</Filter>
+    </None>
+    <None Include="assets\simple2d.fsh" />
+    <None Include="assets\simple2d.vsh" />
+  </ItemGroup>
+</Project>
